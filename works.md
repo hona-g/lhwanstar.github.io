@@ -10,15 +10,6 @@ layout: page
   {% for post in posts %}
   <article class="post-preview">
 
-    {% if site.feed_show_tags != false and post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-    </div>
-    {% endif %}
-
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}

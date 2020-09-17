@@ -14,6 +14,7 @@ author: Hwangyu Lim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Intro: "https://lhwanstar.github.io"
   Works: "works"
   Tag:
     - Test: "https://lhwanstar.github.io/tags/#test"

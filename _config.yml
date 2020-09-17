@@ -14,10 +14,7 @@ author: Hwangyu Lim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Works: "works"
   Tag:
     - Test: "https://lhwanstar.github.io/tags/#test"
     - Test: "https://lhwanstar.github.io/tags/#test"
@@ -42,9 +39,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "lhwanstar@gmail.com"
-  facebook: ""
-  github: "https://github.io/lhwanstar"
-  twitter: ""
+  github: "lhwanstar"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

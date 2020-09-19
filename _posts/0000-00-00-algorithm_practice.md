@@ -9,5 +9,5 @@ comments: true
 ---
 
 <head>
-  <meta http-equiv='refresh' content='0; URL=http://example.com/'>
+  <meta http-equiv='refresh' content='0; URL=https://github.com/lhwanstar/hwangyurithm'>
 </head>

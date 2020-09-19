@@ -8,6 +8,8 @@ tags: [data, github, python, ML, pytorch]
 comments: true
 ---
 
+<a href="https://github.com/lhwanstar/AgeAndGenderClassifier"> github repo link </a>
+
 <head>
   <meta http-equiv='refresh' content='0; URL=https://github.com/lhwanstar/AgeAndGenderClassifier'>
 </head>

@@ -17,8 +17,11 @@ navbar-links:
   Intro: "https://lhwanstar.github.io"
   Works: "works"
   Tag:
-    - Test: "https://lhwanstar.github.io/tags/#test"
-    - Test: "https://lhwanstar.github.io/tags/#test"
+    - github: "https://lhwanstar.github.io/tags/#github"
+    - data: "https://lhwanstar.github.io/tags/#data"
+    - python: "https://lhwanstar.github.io/tags/#python"
+    - C++: "https://lhwanstar.github.io/tags/#C++"
+    - server: "https://lhwanstar.github.io/tags/#server"
 
 # --- Logo --- #
 

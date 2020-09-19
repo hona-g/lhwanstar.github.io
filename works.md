@@ -51,12 +51,12 @@ layout: page
         </h3>
       {% endif %}
     </a>
-
+<!--
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
     </p>
-
+-->
     {% if thumbnail != "" %}
     <div class="post-image post-image-small">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">

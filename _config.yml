@@ -16,7 +16,7 @@ author: Hwangyu Lim
 navbar-links:
   Intro: "https://lhwanstar.github.io"
   Works: "works"
-  Tag:
+  Tag Index:
     - github: "https://lhwanstar.github.io/tags/#github"
     - data: "https://lhwanstar.github.io/tags/#data"
     - python: "https://lhwanstar.github.io/tags/#python"

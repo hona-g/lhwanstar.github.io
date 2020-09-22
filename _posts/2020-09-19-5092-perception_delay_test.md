@@ -1,10 +1,10 @@
 ---
 layout: post
 title: VR 시각 및 청각 인지능력 평가 실험
-subtitle: [팀] 가상현실 인지능력 실험 및 분석 작업 기록 및 발표자료
+subtitle: 가상현실 인지능력 실험 및 분석 작업 기록 및 발표자료
 gh-repo: lhwanstar/Scene-Sentiment-Classifier
 gh-badge: [star, fork, follow]
-tags: [data, python, github, C++, unreal]
+tags: [data, python, github, C++, unreal, team]
 comments: true
 ---
 
